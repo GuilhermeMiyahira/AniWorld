@@ -311,7 +311,7 @@ main{
 .aud h2{
     color: var(--colorpri);
     font-size: 19px;
-    margin: 0px 0px 50px 0px;
+    margin: 50px 0px 50px 0px;
 }
 
 .vid{
