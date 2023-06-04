@@ -254,6 +254,7 @@ main{
     height: 50px;
     opacity: 0;
     z-index: 2;
+    cursor: pointer;
 }
 
 .chess:checked ~ .card{
