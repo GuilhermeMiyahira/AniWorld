@@ -6,3 +6,32 @@
     box-sizing: border-box;
 }
 
+body{
+    height: 100vh;
+    background: url('../imagens/wall.webp');
+    background-repeat: round;
+}
+
+#card{
+    position: absolute;
+    inset: 75px 300px;
+    width: 800px;
+    height: 500px;
+    display: flex;
+}
+
+#login{
+    position: relative;
+    left: 400px;
+    background-color: pink;
+    width: 400px;
+    height: 500px;
+}
+
+#register{
+    position: relative;
+    right: 400px;
+    background-color: red;
+    width: 400px;
+    height: 500px;
+}
